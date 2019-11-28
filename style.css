@@ -1,0 +1,266 @@
+.logo{
+    display: flex;
+    justify-content:space-around;
+    margin: 0px;
+    text-align: center;
+        position: fixed;
+        left: 0;
+        top: 0;
+        width: 100%;
+        background-color:white;
+    
+}
+.about{
+     list-style-type: none;
+     display:flex;
+    width: 25%;
+    justify-content: space-between;
+    height: 40px;
+    font-family: Georgia;
+    color: #7474A1;
+    position: relative;
+    
+
+    }
+    .sub-menu{
+        position: absolute;
+        top: 100%;
+        display: none;
+        list-style-type: none;
+        
+        text-align: left;
+        padding: 30px;
+        line-height: 60px;
+        width: 60%;
+        margin: 0 -50%;
+        background-color: white;
+    }
+    .sub-mene{
+        color:#ABABABt;
+    }
+    .sub-mene:hover{
+        color:#00BFA5;
+        background-color:#F7F7F6;
+    }
+    .menu-item:hover .sub-menu{display: block;
+
+    }
+.img{
+    
+    height: 40px;
+    margin: 10px;
+}
+.bet{
+    margin: 20px;
+    padding: 10px 40px;
+    border: solid transparent;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.about-us{
+    color:#00BFA5;
+}
+.lo{
+    margin: 0px 50%;
+}
+.making{
+    text-align: center;
+    color: #00BFA5;
+}
+.we-want{
+    width: 38%;
+}
+.we-also{
+    width: 38%;
+}
+.text-making{
+    display: flex;
+    justify-content: space-around;
+    font-family: Georgia;
+    line-height: 1.8;
+    color: #8A7474;
+}
+.for-doctors{
+    border:solid;
+    border-radius: 20px;
+    width: 30%;
+    background: #00CCB1;
+    overflow: hidden;
+    
+    padding: 1.375em 2.5em 0;
+}
+.for-patients{
+    border: solid;
+    border-radius:20px ;
+    width: 30%;
+    background: #4082E2;
+    overflow: hidden;
+    
+    padding: 1.375em 2.5em 0;
+
+}
+.menu{
+    border: solid;
+    display: flex;
+    height: 400px;
+    justify-content: space-around;
+    color: white;
+}
+.tof{
+    width: 90%;
+    padding: 10% 70%;
+}
+.for{
+    widows: 10px;
+}
+.login{
+    fill:#ABABAB;
+    
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+    justify-content: space-between;
+    height: 100px;
+    
+}
+
+.zn:hover{
+    fill:#00BFA5;
+
+}
+.we-are{
+    
+    width: 20%;
+    color: #ABABAB;
+    
+}
+.tex{
+    
+    display:flex;
+    justify-content: space-around;
+    margin: 30px;
+}
+.the-world{
+    
+    display: flex;
+    justify-content: space-around;
+    font-family: Book Antiqua;
+    background: #e5faf8;
+
+}
+.wordld{
+    
+    width:30%;
+    
+}
+.wrd{
+    color:#00B39B;
+}
+.leader{
+    
+    
+    width: 50%;
+    display: flex;  
+  flex-wrap:wrap;
+  width: 42%;
+  height: 600px;
+  justify-content: space-around;
+  
+
+}
+.po{
+    border: solid white;
+    width:30%;
+    border-radius: 10px;
+    margin: 20px;
+    background: white;
+}
+.mi{ border:solid white;
+widows: 30%;
+border-radius: 10px;
+margin: 10px;
+background: white;}
+.mill{ border:solid white;
+    width: 30%;
+    border-radius: 10px;
+    padding: 10px;
+    background: white;
+
+   
+}
+.tru{ border: solid white;
+width: 30%;
+border-radius: 10px;
+padding: 30px;
+margin: 20px;
+background: white;
+
+
+}
+.improve{
+    
+    line-height: 1.7142857143;
+    text-align: center;
+    width: 30%;
+    margin: 15px 35%;
+    font-family: Arial;
+    }
+    .prov{
+        color: #00B3A8;
+    }
+    .rome{
+        
+        width: 80%;
+        height:800px;
+        display: flex;  
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-content: space-between;
+        margin: 10%;
+    }
+    .sss{
+       
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+    }
+    .buten{
+        border: solid;
+        border-radius: 7px;
+        margin: 10px;
+        width: 40%;
+        color: white;
+        background-color: #1662C6;
+
+    }
+    .buten:hover{
+        background-color: blue;
+    }
+    .barca{
+        border: 1px solid #F7F7F7 ;
+        border-radius: 5px;
+        
+        
+    }
+    .barca:hover {
+        box-shadow: -2px 2px 8px 0px rgba(0, 0, 0, 0.75);
+    }
+    .war{
+        color: #74748A;
+    }
+    .texte{
+        font-family: serif;
+        text-align: center;
+        
+        color: slategray;
+    }
+    .custom-select{
+        margin:20px;
+        padding: 10px 35px;
+        border: solid white;
+        border-radius: 10px;
+        background-color: white;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+        
